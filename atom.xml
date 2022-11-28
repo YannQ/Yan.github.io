@@ -3,11 +3,11 @@
   <title>Yan Blog</title>
   <icon>https://www.gravatar.com/avatar/b48935825c3d45b1173c50beda745cfa</icon>
   <subtitle>颜桑的博客</subtitle>
-  <link href="http://www.yannq.ml/atom.xml" rel="self"/>
+  <link href="https://www.yannq.ml/atom.xml" rel="self"/>
   
-  <link href="http://www.yannq.ml/"/>
+  <link href="https://www.yannq.ml/"/>
   <updated>2022-11-04T13:15:44.430Z</updated>
-  <id>http://www.yannq.ml/</id>
+  <id>https://www.yannq.ml/</id>
   
   <author>
     <name>颜桑</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.yannq.ml/posts/undefined.html"/>
-    <id>http://www.yannq.ml/posts/undefined.html</id>
+    <link href="https://www.yannq.ml/posts/undefined.html"/>
+    <id>https://www.yannq.ml/posts/undefined.html</id>
     <published>2022-11-04T13:21:31.577Z</published>
     <updated>2022-11-04T13:15:44.430Z</updated>
     
